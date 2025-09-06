@@ -1,4 +1,4 @@
-World Clock (CLI + PySide6 GUI)
+## World Clock (CLI + PySide6 GUI)
 
 ![screenshot_digital.png](screenshot_digital.png)
 
